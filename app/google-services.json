@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085884485144",
+    "firebase_url": "https://logindemo-d9c82.firebaseio.com",
+    "project_id": "logindemo-d9c82",
+    "storage_bucket": "logindemo-d9c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085884485144:android:acdfecbe5634a43d",
+        "android_client_info": {
+          "package_name": "com.best.karem.lapitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085884485144-v9bes3s2sahiludrj44mi740ubo84gnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.best.karem.lapitchat",
+            "certificate_hash": "a1305e392ccf1e38e2f8c6df1dd206c9d179daf5"
+          }
+        },
+        {
+          "client_id": "1085884485144-a7q253meuiq4lcmo70ouda5qhkutf3lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBiaw8B1PNFCT5qCGqyan8_Pzd93P_eIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085884485144-a7q253meuiq4lcmo70ouda5qhkutf3lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
